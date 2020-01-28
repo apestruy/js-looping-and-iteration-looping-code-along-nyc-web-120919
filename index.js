@@ -6,4 +6,8 @@ function writeCards(array, event) {
 return thankYouCards
 }
 
-function countDown
+function countDown(x) {
+  while (x > -1) {
+    
+  }
+}
