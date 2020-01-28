@@ -6,4 +6,4 @@ function writeCards(array, event) {
 return thankYouCards
 }
 
-function 
+function countDown
