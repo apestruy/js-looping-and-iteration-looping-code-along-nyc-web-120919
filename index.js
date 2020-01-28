@@ -8,6 +8,7 @@ return thankYouCards
 
 function countDown(x) {
   while (x > -1) {
-    
+    console.log(x)
+    x--
   }
 }
