@@ -5,3 +5,5 @@ function writeCards(array, event) {
   }
 return thankYouCards
 }
+
+function 
